@@ -1,31 +1,10 @@
 [
   {
     "project": "universmetaverse",
-    "tags": [
-      "universmetaverse",
-      "universmetaverse"
-    ],
     "policies": [
-      "d6fe6efa7788cb70e57a91891605e3694352cabb4837e870610300e9"
-    ]
-  },
-  {
-    "project": "universmetaverse Utility Token",
-    "tags": [
-      "universmetaverse Utility Token",
-      "universmetaverseUtilityToken"
-    ],
-    "policies": [
-      "a883d4a02f4c2cf0c5eeec0f13a5c3ab9a98a8b619cfe6df331eb515"
-    ]
-  },
-  {
-    "project": "universmetaverse x SAC",
-    "tags": [
-      "universmetaverse x SAC"
-    ],
-    "policies": [
-      "16b75e67b5cd92a111db1358c2001d17af8bf400f3fa04939e37d416"
+      "b1c59f55f689fba5a2712e83b5397ec89f295aca6f7189ceb7e50bef",
+      "b1c59f55f689fba5a2712e83b5397ec89f295aca6f7189ceb7e50bef",
+      "b1c59f55f689fba5a2712e83b5397ec89f295aca6f7189ceb7e50bef"
     ]
   }
 ]
